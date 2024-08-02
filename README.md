@@ -1,16 +1,14 @@
-## Hi there 👋
+## Welcome to my Student Profile! 👋
 
-<!--
-**JPO1c2024/JPO1c2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**Im studying in [Alura](https://www.alura.com.br) 🇧🇷** 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- learning javascript
+
+- just a profile for my school
+
+- using this profile to share some of my codes and creations
+
+  🟩🟦🟨⬜
+
+
